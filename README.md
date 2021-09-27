@@ -3,11 +3,6 @@
 
 ### A coursework examining reflection and dependency injection
 
-+ This assignment is to be completed individually.
-+ The sample code mentioned in the text can be found in the repository.
-
-<img src="/Users/keith/Documents/Courses/sdp-sp3/2021/coursework-small-machine-language/sml.jpg" alt="sml" style="zoom:67%;" />
-
 The aim of this assignment is to give you practice with 
 
 + subclasses, 
