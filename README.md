@@ -13,15 +13,6 @@ The aim of this assignment is to give you practice with
 
 amongst other skills.
 
-## Details
-
-**Name**: Your name should appear here
-
-**Your userid**: e.g., myname01
-
-### Comments to grader
-
-Anything you want the grader to know; otherwise just remove this section.
 
 ## The problem
 
@@ -153,13 +144,7 @@ Therefore, these properties are maintained in the base class of all instructions
 
 All of these parts of the coursework should be fully tested (you do not need to provide tests for the original codebase).
 
-## Submission
 
-As part of your portfolio your repository will be *cloned* at the appropriate due date and time.
-
-------
-
-###### Individual Coursework 2021
 
 
 
